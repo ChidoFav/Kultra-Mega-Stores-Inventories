@@ -56,7 +56,7 @@ Run the SQL queries in this project using any SQL database engine that contains 
 
 | Column Name | Data Type   | Description                                         |
 | ----------- | ----------- | --------------------------------------------------- |
-| Order_ID   | VARCHAR(20) | Foreign key from `KMS_CaseStudy.Order_ID`           |
+| Order_ID   | VARCHAR(20) | Foreign key from `KMS_CaseStudy`           |
 | Status      | VARCHAR(20) | Order status (e.g., Delivered, Returned, Cancelled) |
 
 
